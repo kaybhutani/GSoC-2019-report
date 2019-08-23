@@ -1,1 +1,1 @@
-#Icons-Picker, GSoC 2019 project
+# Icons-Picker, GSoC 2019 project
