@@ -20,4 +20,4 @@ Repository: https://gitlab.com/SUSE-UIUX/eos-icons-landing
 
 My contributions: https://gitlab.com/SUSE-UIUX/eos-icons-landing/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=kbhutani0001
 
-Website hosted at: https://eos-icons.eosdesignsystem.com/extended/icons-picker.html
+Website hosted at: https://icons.eosdesignsystem.com/cheatsheet
